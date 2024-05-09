@@ -2,6 +2,10 @@ const firebase = require("firebase");
 require("firebase/firestore");
 const db = firebase.firestore();
 
+
+/*
+fwfwfwf
+*/
 class Actor {
     constructor(name, characterName, bio, imageUrl) {
         this.name = name;
